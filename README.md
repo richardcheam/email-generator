@@ -1,7 +1,7 @@
 This is a small project with the objective to get hands-on experience with LLM.
 A script version or additional interface will be considered in the future. 
 
-This program will generate a tailored email application for input job_url by incorporating relevant skills and portfoilio links that fetch from personal database csv file.
+This program will generate a tailored email application for input {job_url} by incorporating relevant skills and portfoilio links that fetch from personal database.
 
 To get started: 
 
