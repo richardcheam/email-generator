@@ -1,6 +1,6 @@
 # Job Portfolio Matcher
 
-This project uses vector search to match job descriptions with relevant portfolio items based on skills and technologies. It scrapes job listings, extracts key details (role, skills, experience), and stores portfolio items as vector embeddings using ChromaDB. By leveraging semantic search, it identifies the most relevant projects from a user's portfolio, which are then used to generate personalized cold emails for internship applications.
+This project uses vector search to match job descriptions with relevant portfolio items based on skills and technologies. It scrapes job listings, extracts key details (role, skills, experience), and stores portfolio items as vector embeddings using ChromaDB. Using semantic search, it identifies the most relevant projects from a user's portfolio, which are then used to generate personalized cold emails for job applications.
 
 ## Key Features:
 * Job Description Scraping: Extracts job requirements from job postings.
