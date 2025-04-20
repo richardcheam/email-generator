@@ -13,4 +13,7 @@ This project uses vector search to match job descriptions with relevant portfoli
 create a new environment, then
 run "pip install -r requirements.txt"
 
-API_KEY of groqcloud is needed, generate one here: https://console.groq.com/login
+run "python email-gen.py"
+input your job_url, data, API_KEY
+
+Note that API_KEY of groqcloud is needed, generate one here: https://console.groq.com/login
